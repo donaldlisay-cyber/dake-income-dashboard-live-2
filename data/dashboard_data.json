@@ -1,0 +1,2261 @@
+{
+ "months": [
+  {
+   "month": "25年1月",
+   "weibo_dake": 17049.61,
+   "weibo_jn": 1550.0,
+   "weibo_weiren": 2000.0,
+   "ad_dake": 14000.0,
+   "ad_jn": 0.0,
+   "other": 0.0,
+   "total": 34599.61,
+   "ad_items": [
+    {
+     "date": "2025/1/29",
+     "amount": 7000.0,
+     "note": "哪吒影评2条",
+     "channel": "票叔"
+    },
+    {
+     "date": "2025/1/30",
+     "amount": 3500.0,
+     "note": "唐探影评",
+     "channel": "票叔"
+    },
+    {
+     "date": "2025/1/31",
+     "amount": 3500.0,
+     "note": "哪吒影评",
+     "channel": "Charlotte"
+    }
+   ],
+   "weibo_days": 31,
+   "weibo_total": 20599.61,
+   "other_items": [],
+   "calc_total": 34599.61
+  },
+  {
+   "month": "25年2月",
+   "weibo_dake": 11363.489999999998,
+   "weibo_jn": 907.7400000000001,
+   "weibo_weiren": 0.0,
+   "ad_dake": 0.0,
+   "ad_jn": 0.0,
+   "other": 0.0,
+   "total": 12271.229999999998,
+   "ad_items": [],
+   "weibo_days": 28,
+   "weibo_total": 12271.229999999998,
+   "other_items": [],
+   "calc_total": 12271.229999999998
+  },
+  {
+   "month": "25年3月",
+   "weibo_dake": 10845.630000000001,
+   "weibo_jn": 1060.12,
+   "weibo_weiren": 0.0,
+   "ad_dake": 0.0,
+   "ad_jn": 0.0,
+   "other": 0.0,
+   "total": 11905.75,
+   "ad_items": [],
+   "weibo_days": 18,
+   "weibo_total": 11905.75,
+   "other_items": [],
+   "calc_total": 11905.75
+  },
+  {
+   "month": "25年4月",
+   "weibo_dake": 0.0,
+   "weibo_jn": 0.0,
+   "weibo_weiren": 500.0,
+   "ad_dake": 0.0,
+   "ad_jn": 0.0,
+   "other": 0.0,
+   "total": 500.0,
+   "ad_items": [],
+   "weibo_days": 0,
+   "weibo_total": 500.0,
+   "other_items": [],
+   "calc_total": 500.0
+  },
+  {
+   "month": "25年5月",
+   "weibo_dake": 0.0,
+   "weibo_jn": 3526.5499999999997,
+   "weibo_weiren": 1800.0,
+   "ad_dake": 0.0,
+   "ad_jn": 1200.0,
+   "other": 0.0,
+   "total": 6526.549999999999,
+   "ad_items": [
+    {
+     "date": "2025/5/22",
+     "amount": 1200.0,
+     "note": "飞机杯",
+     "channel": "微博"
+    }
+   ],
+   "weibo_days": 14,
+   "weibo_total": 5326.549999999999,
+   "other_items": [],
+   "calc_total": 6526.549999999999
+  },
+  {
+   "month": "25年6月",
+   "weibo_dake": 4276.54,
+   "weibo_jn": 11852.47,
+   "weibo_weiren": 700.0,
+   "ad_dake": 3500.0,
+   "ad_jn": 2000.0,
+   "other": 0.0,
+   "total": 22329.01,
+   "ad_items": [
+    {
+     "date": "2025/6/10",
+     "amount": 3500.0,
+     "note": "罗小黑闭嘴",
+     "channel": "票叔"
+    },
+    {
+     "date": "2025/6/10",
+     "amount": 2000.0,
+     "note": "罗小黑闭嘴",
+     "channel": "票叔"
+    }
+   ],
+   "weibo_days": 30,
+   "weibo_total": 16829.01,
+   "other_items": [],
+   "calc_total": 22329.01
+  },
+  {
+   "month": "25年7月",
+   "weibo_dake": 11263.519999999999,
+   "weibo_jn": 8894.16,
+   "weibo_weiren": 2000.0,
+   "ad_dake": 13500.0,
+   "ad_jn": 1500.0,
+   "other": 0.0,
+   "total": 37157.68,
+   "ad_items": [
+    {
+     "date": "2025/7/17",
+     "amount": 3500.0,
+     "note": "你行你上影评",
+     "channel": "Charlotte"
+    },
+    {
+     "date": "2025/7/18",
+     "amount": 1500.0,
+     "note": "你行你上影评",
+     "channel": "票叔"
+    },
+    {
+     "date": "2025/7/19",
+     "amount": 3500.0,
+     "note": "你行你上开分",
+     "channel": "票叔"
+    },
+    {
+     "date": "2025/7/22",
+     "amount": 3000.0,
+     "note": "明末闭嘴",
+     "channel": "凇"
+    },
+    {
+     "date": "2025/7/25",
+     "amount": 3500.0,
+     "note": "灵笼评价（3500未收款）",
+     "channel": "票叔"
+    }
+   ],
+   "weibo_days": 31,
+   "weibo_total": 22157.68,
+   "other_items": [],
+   "calc_total": 37157.68
+  },
+  {
+   "month": "25年8月",
+   "weibo_dake": 12856.059999999998,
+   "weibo_jn": 7844.740000000002,
+   "weibo_weiren": 1800.0,
+   "ad_dake": 26000.0,
+   "ad_jn": 2100.0,
+   "other": 0.0,
+   "total": 50600.8,
+   "ad_items": [
+    {
+     "date": "2025/8/5",
+     "amount": 600.0,
+     "note": "蛋白粉",
+     "channel": "微博"
+    },
+    {
+     "date": "2025/8/7",
+     "amount": 3500.0,
+     "note": "东极岛",
+     "channel": "票叔"
+    },
+    {
+     "date": "2025/8/7",
+     "amount": 1500.0,
+     "note": "东极岛",
+     "channel": "票叔"
+    },
+    {
+     "date": "2025/8/8",
+     "amount": 3500.0,
+     "note": "东极岛",
+     "channel": "票叔"
+    },
+    {
+     "date": "2025/8/9",
+     "amount": 3500.0,
+     "note": "东极岛",
+     "channel": "Charlotte"
+    },
+    {
+     "date": "2025/8/11",
+     "amount": 3500.0,
+     "note": "日产N6",
+     "channel": "微博"
+    },
+    {
+     "date": "2025/8/14",
+     "amount": 12000.0,
+     "note": "小红书",
+     "channel": "拆台"
+    }
+   ],
+   "weibo_days": 31,
+   "weibo_total": 22500.8,
+   "other_items": [],
+   "calc_total": 50600.8
+  },
+  {
+   "month": "25年9月",
+   "weibo_dake": 7492.53,
+   "weibo_jn": 7359.470000000001,
+   "weibo_weiren": 500.0,
+   "ad_dake": 9800.0,
+   "ad_jn": 1200.0,
+   "other": 0.0,
+   "total": 26352.0,
+   "ad_items": [
+    {
+     "date": "2025/9/3",
+     "amount": 2500.0,
+     "note": "B站",
+     "channel": "御史"
+    },
+    {
+     "date": "2025/9/16",
+     "amount": 300.0,
+     "note": "抖音",
+     "channel": "小伙"
+    },
+    {
+     "date": "2025/9/19",
+     "amount": 3500.0,
+     "note": "731",
+     "channel": "票叔"
+    },
+    {
+     "date": "2025/9/21",
+     "amount": 3500.0,
+     "note": "731",
+     "channel": "票叔"
+    },
+    {
+     "date": "2025/9/29",
+     "amount": 1200.0,
+     "note": "杯子",
+     "channel": "周"
+    }
+   ],
+   "weibo_days": 30,
+   "weibo_total": 15352.0,
+   "other_items": [],
+   "calc_total": 26352.0
+  },
+  {
+   "month": "25年10月",
+   "weibo_dake": 5730.470000000001,
+   "weibo_jn": 6334.36,
+   "weibo_weiren": 0.0,
+   "ad_dake": 50100.0,
+   "ad_jn": 3600.0,
+   "other": 0.0,
+   "total": 65764.83,
+   "ad_items": [
+    {
+     "date": "2025/10/3",
+     "amount": 3500.0,
+     "note": "刺杀小说家2（5000未收款）",
+     "channel": "票叔"
+    },
+    {
+     "date": "2025/10/3",
+     "amount": 1500.0,
+     "note": "刺杀小说家2（5000未收款）",
+     "channel": "票叔"
+    },
+    {
+     "date": "2025/10/19",
+     "amount": 1500.0,
+     "note": "杯子",
+     "channel": "杰尼龟"
+    },
+    {
+     "date": "2025/10/20",
+     "amount": 1000.0,
+     "note": "iqoo",
+     "channel": "丸子"
+    },
+    {
+     "date": "2025/10/22",
+     "amount": 40000.0,
+     "note": "小鹏",
+     "channel": "小鹏"
+    },
+    {
+     "date": "2025/10/24",
+     "amount": 800.0,
+     "note": "LOLM",
+     "channel": "蓝雨（800没结算）"
+    },
+    {
+     "date": "2025/10/28",
+     "amount": 4300.0,
+     "note": "京东/小米（3500）",
+     "channel": "丸子/杜长军"
+    },
+    {
+     "date": "2025/10/30",
+     "amount": 500.0,
+     "note": "IQOO\\蛋白粉",
+     "channel": "丸子"
+    },
+    {
+     "date": "2025/10/30",
+     "amount": 600.0,
+     "note": "IQOO\\蛋白粉",
+     "channel": "丸子"
+    }
+   ],
+   "weibo_days": 31,
+   "weibo_total": 12064.830000000002,
+   "other_items": [],
+   "calc_total": 65764.83
+  },
+  {
+   "month": "25年11月",
+   "weibo_dake": 5990.85,
+   "weibo_jn": 11146.890000000001,
+   "weibo_weiren": 0.0,
+   "ad_dake": 21500.0,
+   "ad_jn": 0.0,
+   "other": 0.0,
+   "total": 38637.740000000005,
+   "ad_items": [
+    {
+     "date": "2025/11/4",
+     "amount": 2000.0,
+     "note": "中介燕辞",
+     "channel": "黑夜"
+    },
+    {
+     "date": "2025/11/5",
+     "amount": 1000.0,
+     "note": "小鹏科技日、X9发布会",
+     "channel": "小鹏"
+    },
+    {
+     "date": "2025/11/6",
+     "amount": 1000.0,
+     "note": "奔驰、坦克",
+     "channel": "丸子"
+    },
+    {
+     "date": "2025/11/8",
+     "amount": 5500.0,
+     "note": "华莱士、深蓝、IQOO",
+     "channel": "丸子"
+    },
+    {
+     "date": "2025/11/9",
+     "amount": 1200.0,
+     "note": "京东、奔驰",
+     "channel": "丸子"
+    },
+    {
+     "date": "2025/11/11",
+     "amount": 2800.0,
+     "note": "天猫双11",
+     "channel": "丸子"
+    },
+    {
+     "date": "2025/11/12",
+     "amount": 500.0,
+     "note": "智己发布会",
+     "channel": "智己"
+    },
+    {
+     "date": "2025/11/13",
+     "amount": 500.0,
+     "note": "日产发布会",
+     "channel": "绣球"
+    },
+    {
+     "date": "2025/11/25",
+     "amount": 3500.0,
+     "note": "小米",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2025/11/29",
+     "amount": 3500.0,
+     "note": "小米",
+     "channel": "杜长军"
+    }
+   ],
+   "weibo_days": 30,
+   "weibo_total": 17137.74,
+   "other_items": [],
+   "calc_total": 38637.740000000005
+  },
+  {
+   "month": "25年12月",
+   "weibo_dake": 6950.81,
+   "weibo_jn": 5687.249999999999,
+   "weibo_weiren": 0.0,
+   "ad_dake": 21300.0,
+   "ad_jn": 2500.0,
+   "other": 0.0,
+   "total": 36438.06,
+   "ad_items": [
+    {
+     "date": "2025/12/5",
+     "amount": 800.0,
+     "note": "日产NX8",
+     "channel": "日产"
+    },
+    {
+     "date": "2025/12/6",
+     "amount": 1000.0,
+     "note": "散人拆台抽成",
+     "channel": "自己找来的"
+    },
+    {
+     "date": "2025/12/7",
+     "amount": 5000.0,
+     "note": "散人",
+     "channel": "自己找来的"
+    },
+    {
+     "date": "2025/12/7",
+     "amount": 2500.0,
+     "note": "散人",
+     "channel": "自己找来的"
+    },
+    {
+     "date": "2025/12/15",
+     "amount": 3500.0,
+     "note": "小米",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2025/12/23",
+     "amount": 4000.0,
+     "note": "阅文",
+     "channel": "阅文"
+    },
+    {
+     "date": "2025/12/30",
+     "amount": 3500.0,
+     "note": "小米",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2025/12/31",
+     "amount": 3500.0,
+     "note": "用武之地3500未收款",
+     "channel": "票叔"
+    }
+   ],
+   "weibo_days": 31,
+   "weibo_total": 12638.06,
+   "other_items": [],
+   "calc_total": 36438.06
+  },
+  {
+   "month": "26年1月",
+   "weibo_dake": 5617.469999999999,
+   "weibo_jn": 5156.48,
+   "weibo_weiren": 0.0,
+   "ad_dake": 34000.0,
+   "ad_jn": 1500.0,
+   "other": 0.0,
+   "total": 46273.95,
+   "ad_items": [
+    {
+     "date": "2026/1/1",
+     "amount": 6000.0,
+     "note": "小鹏试驾",
+     "channel": "小鹏"
+    },
+    {
+     "date": "2026/1/5",
+     "amount": 3500.0,
+     "note": "小米3500已结算",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/1/8",
+     "amount": 500.0,
+     "note": "小鹏发布会",
+     "channel": ""
+    },
+    {
+     "date": "2026/1/9",
+     "amount": 3500.0,
+     "note": "小米3500未收款",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/1/13",
+     "amount": 2500.0,
+     "note": "抖音",
+     "channel": "拆台"
+    },
+    {
+     "date": "2026/1/19",
+     "amount": 500.0,
+     "note": "小鹏发布会",
+     "channel": ""
+    },
+    {
+     "date": "2026/1/21",
+     "amount": 3500.0,
+     "note": "小米3500未收款",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/1/23",
+     "amount": 2500.0,
+     "note": "抖音",
+     "channel": "拆台"
+    },
+    {
+     "date": "2026/1/26",
+     "amount": 3500.0,
+     "note": "小米3500未收款",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/1/27",
+     "amount": 3500.0,
+     "note": "小米3500已结算",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/1/30",
+     "amount": 3500.0,
+     "note": "小米3500已结算",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/1/31",
+     "amount": 1000.0,
+     "note": "阅文",
+     "channel": "中介"
+    },
+    {
+     "date": "2026/1/31",
+     "amount": 1500.0,
+     "note": "阅文",
+     "channel": "中介"
+    }
+   ],
+   "weibo_days": 31,
+   "weibo_total": 10773.949999999999,
+   "other_items": [],
+   "calc_total": 46273.95
+  },
+  {
+   "month": "26年2月",
+   "weibo_dake": 4314.929999999999,
+   "weibo_jn": 7742.260000000002,
+   "weibo_weiren": 900.0,
+   "ad_dake": 31300.0,
+   "ad_jn": 2300.0,
+   "other": 0.0,
+   "total": 46557.19,
+   "ad_items": [
+    {
+     "date": "2026/2/3",
+     "amount": 3500.0,
+     "note": "小米3500未收款",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/2/4",
+     "amount": 500.0,
+     "note": "小米3500已结算",
+     "channel": "丸子"
+    },
+    {
+     "date": "2026/2/6",
+     "amount": 3500.0,
+     "note": "小米3500未收款",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/2/9",
+     "amount": 4500.0,
+     "note": "惊蛰无声",
+     "channel": "海韵"
+    },
+    {
+     "date": "2026/2/12",
+     "amount": 3500.0,
+     "note": "星河入梦未收款",
+     "channel": "C"
+    },
+    {
+     "date": "2026/2/17",
+     "amount": 3500.0,
+     "note": "星河入梦",
+     "channel": "票"
+    },
+    {
+     "date": "2026/2/18",
+     "amount": 3500.0,
+     "note": "熊出没3500未收款",
+     "channel": "票"
+    },
+    {
+     "date": "2026/2/19",
+     "amount": 4500.0,
+     "note": "熊出没/镖人1500未收款",
+     "channel": "票/海韵"
+    },
+    {
+     "date": "2026/2/19",
+     "amount": 1500.0,
+     "note": "熊出没/镖人1500未收款",
+     "channel": "票/海韵"
+    },
+    {
+     "date": "2026/2/25",
+     "amount": 3500.0,
+     "note": "小米/懂车帝3500已结算",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/2/25",
+     "amount": 800.0,
+     "note": "小米/懂车帝3500已结算",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/2/26",
+     "amount": 800.0,
+     "note": "日产发布会",
+     "channel": ""
+    }
+   ],
+   "weibo_days": 28,
+   "weibo_total": 12957.190000000002,
+   "other_items": [],
+   "calc_total": 46557.19
+  },
+  {
+   "month": "26年3月",
+   "weibo_dake": 6856.9400000000005,
+   "weibo_jn": 6602.910000000003,
+   "weibo_weiren": 0.0,
+   "ad_dake": 13000.0,
+   "ad_jn": 2000.0,
+   "other": 0.0,
+   "total": 28459.850000000002,
+   "ad_items": [
+    {
+     "date": "2026/3/3",
+     "amount": 2500.0,
+     "note": "抖音",
+     "channel": "拆台"
+    },
+    {
+     "date": "2026/3/4",
+     "amount": 3500.0,
+     "note": "《惊蛰无声》未收款",
+     "channel": "C"
+    },
+    {
+     "date": "2026/3/16",
+     "amount": 2000.0,
+     "note": "姚晨",
+     "channel": "C/柿子"
+    },
+    {
+     "date": "2026/3/23",
+     "amount": 3500.0,
+     "note": "小米未收款",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/3/31",
+     "amount": 3500.0,
+     "note": "小米已结算",
+     "channel": "杜长军"
+    }
+   ],
+   "weibo_days": 31,
+   "weibo_total": 13459.850000000002,
+   "other_items": [],
+   "calc_total": 28459.850000000002
+  },
+  {
+   "month": "26年4月",
+   "weibo_dake": 6812.5599999999995,
+   "weibo_jn": 6418.160000000002,
+   "weibo_weiren": 0.0,
+   "ad_dake": 4000.0,
+   "ad_jn": 1200.0,
+   "other": 0.0,
+   "total": 18430.72,
+   "ad_items": [
+    {
+     "date": "2026/4/11",
+     "amount": 3500.0,
+     "note": "蔡徐坤",
+     "channel": "柿子"
+    },
+    {
+     "date": "2026/4/29",
+     "amount": 1200.0,
+     "note": "杯子",
+     "channel": "周"
+    },
+    {
+     "date": "2026/4/30",
+     "amount": 500.0,
+     "note": "追觅",
+     "channel": "小明"
+    }
+   ],
+   "weibo_days": 29,
+   "weibo_total": 13230.720000000001,
+   "other_items": [],
+   "calc_total": 18430.72
+  },
+  {
+   "month": "26年5月",
+   "weibo_dake": 11618.91,
+   "weibo_jn": 7199.670000000002,
+   "weibo_weiren": 0.0,
+   "ad_dake": 28500.0,
+   "ad_jn": 2200.0,
+   "other": 0.0,
+   "total": 49518.58,
+   "ad_items": [
+    {
+     "date": "2026/5/1",
+     "amount": 500.0,
+     "note": "追觅",
+     "channel": ""
+    },
+    {
+     "date": "2026/5/2",
+     "amount": 3500.0,
+     "note": "小米未收款",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/5/3",
+     "amount": 3500.0,
+     "note": "寒战未收款",
+     "channel": "票"
+    },
+    {
+     "date": "2026/5/8",
+     "amount": 4000.0,
+     "note": "海力生",
+     "channel": ""
+    },
+    {
+     "date": "2026/5/14",
+     "amount": 3500.0,
+     "note": "小米未收款3500",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/5/22",
+     "amount": 2500.0,
+     "note": "已结算",
+     "channel": "拆台"
+    },
+    {
+     "date": "2026/5/23",
+     "amount": 2500.0,
+     "note": "已结算",
+     "channel": "拆台"
+    },
+    {
+     "date": "2026/5/24",
+     "amount": 7500.0,
+     "note": "阅文/小米未收款小米3500阅文4000",
+     "channel": "x/杜长军"
+    },
+    {
+     "date": "2026/5/28",
+     "amount": 1000.0,
+     "note": "阅文+提成未收款",
+     "channel": "x"
+    },
+    {
+     "date": "2026/5/28",
+     "amount": 1000.0,
+     "note": "阅文+提成未收款",
+     "channel": "x"
+    },
+    {
+     "date": "2026/5/30",
+     "amount": 1200.0,
+     "note": "杯子",
+     "channel": "周"
+    }
+   ],
+   "weibo_days": 31,
+   "weibo_total": 18818.58,
+   "other_items": [],
+   "calc_total": 49518.58
+  },
+  {
+   "month": "26年6月",
+   "weibo_dake": 4244.09,
+   "weibo_jn": 3256.3199999999997,
+   "weibo_weiren": 0.0,
+   "ad_dake": 15500.0,
+   "ad_jn": 0.0,
+   "other": 0.0,
+   "total": 23000.41,
+   "ad_items": [
+    {
+     "date": "2026/6/2",
+     "amount": 3000.0,
+     "note": "拼多多",
+     "channel": ""
+    },
+    {
+     "date": "2026/6/9",
+     "amount": 2000.0,
+     "note": "东来",
+     "channel": ""
+    },
+    {
+     "date": "2026/6/18",
+     "amount": 3500.0,
+     "note": "小米未收款",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/6/23",
+     "amount": 3500.0,
+     "note": "小米未收款",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/6/27",
+     "amount": 3500.0,
+     "note": "千问",
+     "channel": "油条"
+    }
+   ],
+   "weibo_days": 30,
+   "weibo_total": 7500.41,
+   "other_items": [],
+   "calc_total": 23000.41
+  },
+  {
+   "month": "26年7月",
+   "weibo_dake": 6429.060000000001,
+   "weibo_jn": 3072.6400000000003,
+   "weibo_weiren": 0.0,
+   "ad_dake": 71000.0,
+   "ad_jn": 0.0,
+   "other": 0.0,
+   "total": 78501.7,
+   "ad_items": [
+    {
+     "date": "2026/7/9",
+     "amount": 3500.0,
+     "note": "三国志争洛阳3500未收款",
+     "channel": "票叔"
+    },
+    {
+     "date": "2026/7/14",
+     "amount": 3500.0,
+     "note": "小米未收款",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/7/24",
+     "amount": 50000.0,
+     "note": "小鹏视频广告GX已结算",
+     "channel": "小鹏GX"
+    },
+    {
+     "date": "2026/7/25",
+     "amount": 3500.0,
+     "note": "群星闪耀时3500未收款",
+     "channel": "票叔"
+    },
+    {
+     "date": "2026/7/28",
+     "amount": 3000.0,
+     "note": "日产未收款",
+     "channel": "鱼是乎"
+    },
+    {
+     "date": "2026/7/31",
+     "amount": 7500.0,
+     "note": "阅文4000未收款 / 小米3500未收款",
+     "channel": ""
+    }
+   ],
+   "weibo_days": 26,
+   "weibo_total": 9501.7,
+   "other_items": [],
+   "calc_total": 80501.7
+  },
+  {
+   "month": "26年8月",
+   "weibo_dake": 0.0,
+   "weibo_jn": 0.0,
+   "weibo_weiren": 0.0,
+   "ad_dake": 25000.0,
+   "ad_jn": 0.0,
+   "other": 0.0,
+   "total": 25000.0,
+   "ad_items": [
+    {
+     "date": "2026/8/8",
+     "amount": 4500.0,
+     "note": "欢迎来龙餐馆4500未收款",
+     "channel": "电电电"
+    },
+    {
+     "date": "2026/8/12",
+     "amount": 3500.0,
+     "note": "影之刃零3500未收款",
+     "channel": "C"
+    },
+    {
+     "date": "2026/8/13",
+     "amount": 10000.0,
+     "note": "小鹏GX广告费",
+     "channel": "小鹏"
+    },
+    {
+     "date": "2026/8/20",
+     "amount": 3500.0,
+     "note": "空枪影评未收款",
+     "channel": "C"
+    },
+    {
+     "date": "2026/9/1",
+     "amount": 3500.0,
+     "note": "小米未收款3500",
+     "channel": "杜长军"
+    }
+   ],
+   "weibo_days": 0,
+   "weibo_total": 0.0,
+   "other_items": [],
+   "calc_total": 25000.0
+  },
+  {
+   "month": "26年9月",
+   "weibo_dake": 0.0,
+   "weibo_jn": 0.0,
+   "weibo_weiren": 0.0,
+   "ad_dake": 7500.0,
+   "ad_jn": 0.0,
+   "other": 0.0,
+   "total": 7500.0,
+   "ad_items": [
+    {
+     "date": "2026/9/8",
+     "amount": 3500.0,
+     "note": "小米未收款3500",
+     "channel": "杜长军"
+    },
+    {
+     "date": "2026/9/11",
+     "amount": 4000.0,
+     "note": "阅文4000未收款",
+     "channel": "x"
+    }
+   ],
+   "weibo_days": 0,
+   "weibo_total": 0.0,
+   "other_items": [],
+   "calc_total": 7500.0
+  },
+  {
+   "month": "26年10月",
+   "weibo_dake": 0.0,
+   "weibo_jn": 0.0,
+   "weibo_weiren": 0.0,
+   "ad_dake": 0.0,
+   "ad_jn": 0.0,
+   "other": 0.0,
+   "total": 0.0,
+   "ad_items": [],
+   "weibo_days": 0,
+   "weibo_total": 0.0,
+   "other_items": [],
+   "calc_total": 0.0
+  },
+  {
+   "month": "26年11月",
+   "weibo_dake": 0.0,
+   "weibo_jn": 0.0,
+   "weibo_weiren": 0.0,
+   "ad_dake": 0.0,
+   "ad_jn": 0.0,
+   "other": 0.0,
+   "total": 0.0,
+   "ad_items": [],
+   "weibo_days": 0,
+   "weibo_total": 0.0,
+   "other_items": [],
+   "calc_total": 0.0
+  },
+  {
+   "month": "26年12月",
+   "weibo_dake": 0.0,
+   "weibo_jn": 0.0,
+   "weibo_weiren": 0.0,
+   "ad_dake": 0.0,
+   "ad_jn": 0.0,
+   "other": 0.0,
+   "total": 0.0,
+   "ad_items": [],
+   "weibo_days": 0,
+   "weibo_total": 0.0,
+   "other_items": [],
+   "calc_total": 0.0
+  }
+ ],
+ "months24": [
+  {
+   "key": "2023-11",
+   "dake": 7122.77,
+   "days": 30,
+   "other": 0.0,
+   "total": 12759.39,
+   "sheets": [
+    "@24:23年11月"
+   ]
+  },
+  {
+   "key": "2023-12",
+   "dake": 10908.27,
+   "days": 31,
+   "other": 0.0,
+   "total": 21872.14,
+   "sheets": [
+    "@24:23年12月"
+   ]
+  },
+  {
+   "key": "2024-01",
+   "dake": 6853.13,
+   "days": 31,
+   "other": 0.0,
+   "total": 10788.82,
+   "sheets": [
+    "@24:24年1月"
+   ]
+  },
+  {
+   "key": "2024-02",
+   "dake": 7336.140000000001,
+   "days": 29,
+   "other": 0.0,
+   "total": 20103.33,
+   "sheets": [
+    "@24:24年2月"
+   ]
+  },
+  {
+   "key": "2024-03",
+   "dake": 7653.7,
+   "days": 31,
+   "other": 0.0,
+   "total": 22826.33,
+   "sheets": [
+    "@24:24年3月"
+   ]
+  },
+  {
+   "key": "2024-04",
+   "dake": 12560.12,
+   "days": 30,
+   "other": 0.0,
+   "total": 25560.12,
+   "sheets": [
+    "@24:24年4月"
+   ]
+  },
+  {
+   "key": "2024-05",
+   "dake": 16280.860000000004,
+   "days": 31,
+   "other": 0.0,
+   "total": 26830.86,
+   "sheets": [
+    "@24:24年5月"
+   ]
+  },
+  {
+   "key": "2024-06",
+   "dake": 14621.660000000002,
+   "days": 30,
+   "other": 0.0,
+   "total": 21241.66,
+   "sheets": [
+    "@24:24年6月"
+   ]
+  },
+  {
+   "key": "2024-07",
+   "dake": 14542.13,
+   "days": 31,
+   "other": 0.0,
+   "total": 25711.87,
+   "sheets": [
+    "@24:24年7月"
+   ]
+  },
+  {
+   "key": "2024-08",
+   "dake": 19146.319999999996,
+   "days": 31,
+   "other": 0.0,
+   "total": 32705.32,
+   "sheets": [
+    "@24:24年8月"
+   ]
+  },
+  {
+   "key": "2024-09",
+   "dake": 24440.980000000003,
+   "days": 30,
+   "other": 0.0,
+   "total": 38813.98,
+   "sheets": [
+    "@24:24年9月"
+   ]
+  },
+  {
+   "key": "2024-10",
+   "dake": 10238.75,
+   "days": 25,
+   "other": 0.0,
+   "total": 20611.75,
+   "sheets": [
+    "@24:24年10月"
+   ]
+  },
+  {
+   "key": "2024-11",
+   "dake": 16920.739999999998,
+   "days": 30,
+   "other": 0.0,
+   "total": 25220.74,
+   "sheets": [
+    "@24:24年11月"
+   ]
+  },
+  {
+   "key": "2024-12",
+   "dake": 19296.460000000006,
+   "days": 31,
+   "other": 0.0,
+   "total": 37096.46,
+   "sheets": [
+    "@24:24年12月"
+   ]
+  }
+ ],
+ "tracking": {
+  "records": [
+   {
+    "date": "2026/6/2",
+    "project": "拼多多",
+    "channel": "(无)",
+    "amount": 3000.0,
+    "days_raw": "10天",
+    "src_month": "26年6月",
+    "paid_date": "2026-06-23",
+    "status": "已收",
+    "days": 10
+   },
+   {
+    "date": "2026/2/12",
+    "project": "星河入梦",
+    "channel": "C",
+    "amount": 3500.0,
+    "days_raw": "!120天",
+    "src_month": "26年2月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 120
+   },
+   {
+    "date": "2026/3/4",
+    "project": "惊蛰无声",
+    "channel": "C",
+    "amount": 3500.0,
+    "days_raw": "!100天",
+    "src_month": "26年3月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 100
+   },
+   {
+    "date": "2026/5/24",
+    "project": "阅文",
+    "channel": "x",
+    "amount": 4000.0,
+    "days_raw": "19天",
+    "src_month": "26年5月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 19
+   },
+   {
+    "date": "2026/5/28",
+    "project": "阅文",
+    "channel": "x",
+    "amount": 2000.0,
+    "days_raw": "15天",
+    "src_month": "26年5月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 15
+   },
+   {
+    "date": "2026/5/22",
+    "project": "抖音",
+    "channel": "拆台",
+    "amount": 2500.0,
+    "days_raw": "21天",
+    "src_month": "26年5月",
+    "paid_date": "2026-08-26",
+    "status": "已收",
+    "days": 21
+   },
+   {
+    "date": "2026/5/23",
+    "project": "抖音",
+    "channel": "拆台",
+    "amount": 2500.0,
+    "days_raw": "20天",
+    "src_month": "26年5月",
+    "paid_date": "2026-08-26",
+    "status": "已收",
+    "days": 20
+   },
+   {
+    "date": "2026/1/5",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠158天",
+    "src_month": "26年1月",
+    "paid_date": "2026-07-28",
+    "status": "已收",
+    "days": 158
+   },
+   {
+    "date": "2026/1/9",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠154天",
+    "src_month": "26年1月",
+    "paid_date": "2026-08-13",
+    "status": "已收",
+    "days": 154
+   },
+   {
+    "date": "2026/1/21",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠142天",
+    "src_month": "26年1月",
+    "paid_date": "2026-08-13",
+    "status": "已收",
+    "days": 142
+   },
+   {
+    "date": "2026/1/26",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠137天",
+    "src_month": "26年1月",
+    "paid_date": "",
+    "status": "已收",
+    "days": 137
+   },
+   {
+    "date": "2026/1/27",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠136天",
+    "src_month": "26年1月",
+    "paid_date": "2026-08-13",
+    "status": "已收",
+    "days": 136
+   },
+   {
+    "date": "2026/1/30",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠133天",
+    "src_month": "26年1月",
+    "paid_date": "2026-07-28",
+    "status": "已收",
+    "days": 133
+   },
+   {
+    "date": "2026/2/3",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠129天",
+    "src_month": "26年2月",
+    "paid_date": "2026-08-13",
+    "status": "已收",
+    "days": 129
+   },
+   {
+    "date": "2026/2/6",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠126天",
+    "src_month": "26年2月",
+    "paid_date": "",
+    "status": "已收",
+    "days": 126
+   },
+   {
+    "date": "2026/2/25",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "!107天",
+    "src_month": "26年2月",
+    "paid_date": "2026-07-28",
+    "status": "已收",
+    "days": 107
+   },
+   {
+    "date": "2026/3/23",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "81天",
+    "src_month": "26年3月",
+    "paid_date": "",
+    "status": "已收",
+    "days": 81
+   },
+   {
+    "date": "2026/3/31",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "73天",
+    "src_month": "26年3月",
+    "paid_date": "",
+    "status": "已收",
+    "days": 73
+   },
+   {
+    "date": "2026/5/2",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "41天",
+    "src_month": "26年5月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 41
+   },
+   {
+    "date": "2026/5/14",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "29天",
+    "src_month": "26年5月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 29
+   },
+   {
+    "date": "2026/5/24",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "19天",
+    "src_month": "26年5月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 19
+   },
+   {
+    "date": "2026/6/18",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "0天",
+    "src_month": "26年6月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 0
+   },
+   {
+    "date": "2026/6/23",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "0天",
+    "src_month": "26年6月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 0
+   },
+   {
+    "date": "2026/7/14",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "18笔",
+    "src_month": "26年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 18
+   },
+   {
+    "date": "2025/6/10",
+    "project": "罗小黑",
+    "channel": "票叔",
+    "amount": 5500.0,
+    "days_raw": "⚠367天",
+    "src_month": "25年6月",
+    "paid_date": "2026-06-23",
+    "status": "已收",
+    "days": 367
+   },
+   {
+    "date": "2025/7/25",
+    "project": "灵笼评价",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "⚠322天",
+    "src_month": "25年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 322
+   },
+   {
+    "date": "2025/10/3",
+    "project": "刺杀小说家2",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "⚠252天",
+    "src_month": "25年10月",
+    "paid_date": "2026-08-25",
+    "status": "已收",
+    "days": 252
+   },
+   {
+    "date": "2025/12/31",
+    "project": "用武之地",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "⚠163天",
+    "src_month": "25年12月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 163
+   },
+   {
+    "date": "2026/2/18",
+    "project": "熊出没",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "!114天",
+    "src_month": "26年2月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 114
+   },
+   {
+    "date": "2026/5/3",
+    "project": "寒战",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "40天",
+    "src_month": "26年5月",
+    "paid_date": "2026-07-01",
+    "status": "已收",
+    "days": 40
+   },
+   {
+    "date": "2026/7/9",
+    "project": "三国志争洛阳",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "1天",
+    "src_month": "26年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 1
+   },
+   {
+    "date": "2026/7/25",
+    "project": "群星闪耀时",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "1天",
+    "src_month": "26年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 1
+   },
+   {
+    "date": "2026/2/9",
+    "project": "惊蛰无声",
+    "channel": "海韵",
+    "amount": 4500.0,
+    "days_raw": "!123天",
+    "src_month": "26年2月",
+    "paid_date": "2026-07-01",
+    "status": "已收",
+    "days": 123
+   },
+   {
+    "date": "2026/2/19",
+    "project": "熊出没",
+    "channel": "票叔",
+    "amount": 1500.0,
+    "days_raw": "!113天",
+    "src_month": "26年2月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 113
+   },
+   {
+    "date": "2025/10/24",
+    "project": "LOLM/蓝雨",
+    "channel": "蓝雨",
+    "amount": 800.0,
+    "days_raw": "⚠231天",
+    "src_month": "25年10月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 231
+   },
+   {
+    "date": "2026/7/24",
+    "project": "小鹏视频广告GX",
+    "channel": "小鹏GX",
+    "amount": 50000.0,
+    "days_raw": "2天",
+    "src_month": "26年7月",
+    "paid_date": "2026-07-26",
+    "status": "已收",
+    "days": 2
+   },
+   {
+    "date": "2026/7/28",
+    "project": "日产",
+    "channel": "鱼是乎",
+    "amount": 3000.0,
+    "days_raw": "3天",
+    "src_month": "26年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 3
+   },
+   {
+    "date": "2026/7/31",
+    "project": "阅文",
+    "channel": "x",
+    "amount": 4000.0,
+    "days_raw": "1天",
+    "src_month": "26年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 1
+   },
+   {
+    "date": "2026/7/31",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "1天",
+    "src_month": "26年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 1
+   },
+   {
+    "date": "2026/8/8",
+    "project": "《欢迎来龙餐馆》影评",
+    "channel": "电电电",
+    "amount": 4500.0,
+    "days_raw": "0天",
+    "src_month": "26年8月",
+    "paid_date": "2026-09-12",
+    "status": "已收",
+    "days": 0
+   },
+   {
+    "date": "2026/8/12",
+    "project": "《影之刃零》宣发",
+    "channel": "C",
+    "amount": 3500.0,
+    "days_raw": "0天",
+    "src_month": "26年8月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 0
+   },
+   {
+    "date": "2025/10/3",
+    "project": "刺杀小说家2（杰尼龟说）",
+    "channel": "票叔",
+    "amount": 1500.0,
+    "days_raw": "⚠326天",
+    "src_month": "25年10月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 326
+   },
+   {
+    "date": "2026/8/28",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "0天",
+    "src_month": "26年8月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 0
+   },
+   {
+    "date": "2026/7/20",
+    "project": "空枪影评",
+    "channel": "C",
+    "amount": 3500.0,
+    "days_raw": "47天",
+    "src_month": "26年8月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 47
+   },
+   {
+    "date": "2026/9/8",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "1天",
+    "src_month": "26年9月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 1
+   },
+   {
+    "date": "2026/9/11",
+    "project": "阅文",
+    "channel": "x",
+    "amount": 4000.0,
+    "days_raw": "1天",
+    "src_month": "26年9月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 1
+   }
+  ],
+  "unpaid": [
+   {
+    "date": "2026/2/12",
+    "project": "星河入梦",
+    "channel": "C",
+    "amount": 3500.0,
+    "days_raw": "!120天",
+    "src_month": "26年2月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 120
+   },
+   {
+    "date": "2026/3/4",
+    "project": "惊蛰无声",
+    "channel": "C",
+    "amount": 3500.0,
+    "days_raw": "!100天",
+    "src_month": "26年3月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 100
+   },
+   {
+    "date": "2026/5/24",
+    "project": "阅文",
+    "channel": "x",
+    "amount": 4000.0,
+    "days_raw": "19天",
+    "src_month": "26年5月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 19
+   },
+   {
+    "date": "2026/5/28",
+    "project": "阅文",
+    "channel": "x",
+    "amount": 2000.0,
+    "days_raw": "15天",
+    "src_month": "26年5月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 15
+   },
+   {
+    "date": "2026/5/2",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "41天",
+    "src_month": "26年5月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 41
+   },
+   {
+    "date": "2026/5/14",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "29天",
+    "src_month": "26年5月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 29
+   },
+   {
+    "date": "2026/5/24",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "19天",
+    "src_month": "26年5月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 19
+   },
+   {
+    "date": "2026/6/18",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "0天",
+    "src_month": "26年6月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 0
+   },
+   {
+    "date": "2026/6/23",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "0天",
+    "src_month": "26年6月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 0
+   },
+   {
+    "date": "2026/7/14",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "18笔",
+    "src_month": "26年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 18
+   },
+   {
+    "date": "2025/7/25",
+    "project": "灵笼评价",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "⚠322天",
+    "src_month": "25年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 322
+   },
+   {
+    "date": "2025/12/31",
+    "project": "用武之地",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "⚠163天",
+    "src_month": "25年12月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 163
+   },
+   {
+    "date": "2026/2/18",
+    "project": "熊出没",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "!114天",
+    "src_month": "26年2月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 114
+   },
+   {
+    "date": "2026/7/9",
+    "project": "三国志争洛阳",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "1天",
+    "src_month": "26年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 1
+   },
+   {
+    "date": "2026/7/25",
+    "project": "群星闪耀时",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "1天",
+    "src_month": "26年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 1
+   },
+   {
+    "date": "2026/2/19",
+    "project": "熊出没",
+    "channel": "票叔",
+    "amount": 1500.0,
+    "days_raw": "!113天",
+    "src_month": "26年2月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 113
+   },
+   {
+    "date": "2025/10/24",
+    "project": "LOLM/蓝雨",
+    "channel": "蓝雨",
+    "amount": 800.0,
+    "days_raw": "⚠231天",
+    "src_month": "25年10月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 231
+   },
+   {
+    "date": "2026/7/28",
+    "project": "日产",
+    "channel": "鱼是乎",
+    "amount": 3000.0,
+    "days_raw": "3天",
+    "src_month": "26年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 3
+   },
+   {
+    "date": "2026/7/31",
+    "project": "阅文",
+    "channel": "x",
+    "amount": 4000.0,
+    "days_raw": "1天",
+    "src_month": "26年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 1
+   },
+   {
+    "date": "2026/7/31",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "1天",
+    "src_month": "26年7月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 1
+   },
+   {
+    "date": "2026/8/12",
+    "project": "《影之刃零》宣发",
+    "channel": "C",
+    "amount": 3500.0,
+    "days_raw": "0天",
+    "src_month": "26年8月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 0
+   },
+   {
+    "date": "2025/10/3",
+    "project": "刺杀小说家2（杰尼龟说）",
+    "channel": "票叔",
+    "amount": 1500.0,
+    "days_raw": "⚠326天",
+    "src_month": "25年10月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 326
+   },
+   {
+    "date": "2026/8/28",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "0天",
+    "src_month": "26年8月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 0
+   },
+   {
+    "date": "2026/7/20",
+    "project": "空枪影评",
+    "channel": "C",
+    "amount": 3500.0,
+    "days_raw": "47天",
+    "src_month": "26年8月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 47
+   },
+   {
+    "date": "2026/9/8",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "1天",
+    "src_month": "26年9月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 1
+   },
+   {
+    "date": "2026/9/11",
+    "project": "阅文",
+    "channel": "x",
+    "amount": 4000.0,
+    "days_raw": "1天",
+    "src_month": "26年9月",
+    "paid_date": "",
+    "status": "未收",
+    "days": 1
+   }
+  ],
+  "paid": [
+   {
+    "date": "2026/6/2",
+    "project": "拼多多",
+    "channel": "(无)",
+    "amount": 3000.0,
+    "days_raw": "10天",
+    "src_month": "26年6月",
+    "paid_date": "2026-06-23",
+    "status": "已收",
+    "days": 10
+   },
+   {
+    "date": "2026/5/22",
+    "project": "抖音",
+    "channel": "拆台",
+    "amount": 2500.0,
+    "days_raw": "21天",
+    "src_month": "26年5月",
+    "paid_date": "2026-08-26",
+    "status": "已收",
+    "days": 21
+   },
+   {
+    "date": "2026/5/23",
+    "project": "抖音",
+    "channel": "拆台",
+    "amount": 2500.0,
+    "days_raw": "20天",
+    "src_month": "26年5月",
+    "paid_date": "2026-08-26",
+    "status": "已收",
+    "days": 20
+   },
+   {
+    "date": "2026/1/5",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠158天",
+    "src_month": "26年1月",
+    "paid_date": "2026-07-28",
+    "status": "已收",
+    "days": 158
+   },
+   {
+    "date": "2026/1/9",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠154天",
+    "src_month": "26年1月",
+    "paid_date": "2026-08-13",
+    "status": "已收",
+    "days": 154
+   },
+   {
+    "date": "2026/1/21",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠142天",
+    "src_month": "26年1月",
+    "paid_date": "2026-08-13",
+    "status": "已收",
+    "days": 142
+   },
+   {
+    "date": "2026/1/26",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠137天",
+    "src_month": "26年1月",
+    "paid_date": "",
+    "status": "已收",
+    "days": 137
+   },
+   {
+    "date": "2026/1/27",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠136天",
+    "src_month": "26年1月",
+    "paid_date": "2026-08-13",
+    "status": "已收",
+    "days": 136
+   },
+   {
+    "date": "2026/1/30",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠133天",
+    "src_month": "26年1月",
+    "paid_date": "2026-07-28",
+    "status": "已收",
+    "days": 133
+   },
+   {
+    "date": "2026/2/3",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠129天",
+    "src_month": "26年2月",
+    "paid_date": "2026-08-13",
+    "status": "已收",
+    "days": 129
+   },
+   {
+    "date": "2026/2/6",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "⚠126天",
+    "src_month": "26年2月",
+    "paid_date": "",
+    "status": "已收",
+    "days": 126
+   },
+   {
+    "date": "2026/2/25",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "!107天",
+    "src_month": "26年2月",
+    "paid_date": "2026-07-28",
+    "status": "已收",
+    "days": 107
+   },
+   {
+    "date": "2026/3/23",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "81天",
+    "src_month": "26年3月",
+    "paid_date": "",
+    "status": "已收",
+    "days": 81
+   },
+   {
+    "date": "2026/3/31",
+    "project": "小米",
+    "channel": "杜长军",
+    "amount": 3500.0,
+    "days_raw": "73天",
+    "src_month": "26年3月",
+    "paid_date": "",
+    "status": "已收",
+    "days": 73
+   },
+   {
+    "date": "2025/6/10",
+    "project": "罗小黑",
+    "channel": "票叔",
+    "amount": 5500.0,
+    "days_raw": "⚠367天",
+    "src_month": "25年6月",
+    "paid_date": "2026-06-23",
+    "status": "已收",
+    "days": 367
+   },
+   {
+    "date": "2025/10/3",
+    "project": "刺杀小说家2",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "⚠252天",
+    "src_month": "25年10月",
+    "paid_date": "2026-08-25",
+    "status": "已收",
+    "days": 252
+   },
+   {
+    "date": "2026/5/3",
+    "project": "寒战",
+    "channel": "票叔",
+    "amount": 3500.0,
+    "days_raw": "40天",
+    "src_month": "26年5月",
+    "paid_date": "2026-07-01",
+    "status": "已收",
+    "days": 40
+   },
+   {
+    "date": "2026/2/9",
+    "project": "惊蛰无声",
+    "channel": "海韵",
+    "amount": 4500.0,
+    "days_raw": "!123天",
+    "src_month": "26年2月",
+    "paid_date": "2026-07-01",
+    "status": "已收",
+    "days": 123
+   },
+   {
+    "date": "2026/7/24",
+    "project": "小鹏视频广告GX",
+    "channel": "小鹏GX",
+    "amount": 50000.0,
+    "days_raw": "2天",
+    "src_month": "26年7月",
+    "paid_date": "2026-07-26",
+    "status": "已收",
+    "days": 2
+   },
+   {
+    "date": "2026/8/8",
+    "project": "《欢迎来龙餐馆》影评",
+    "channel": "电电电",
+    "amount": 4500.0,
+    "days_raw": "0天",
+    "src_month": "26年8月",
+    "paid_date": "2026-09-12",
+    "status": "已收",
+    "days": 0
+   }
+  ],
+  "chan_summary": [
+   {
+    "channel": "杜长军",
+    "amount": 31500.0,
+    "count": 9,
+    "max_days": 41
+   },
+   {
+    "channel": "票叔",
+    "amount": 20500.0,
+    "count": 7,
+    "max_days": 326
+   },
+   {
+    "channel": "C",
+    "amount": 14000.0,
+    "count": 4,
+    "max_days": 120
+   },
+   {
+    "channel": "x",
+    "amount": 14000.0,
+    "count": 4,
+    "max_days": 19
+   },
+   {
+    "channel": "鱼是乎",
+    "amount": 3000.0,
+    "count": 1,
+    "max_days": 3
+   },
+   {
+    "channel": "蓝雨",
+    "amount": 800.0,
+    "count": 1,
+    "max_days": 231
+   }
+  ],
+  "unpaid_total": 83800.0,
+  "paid_total": 118000.0,
+  "all_total": 201800.0,
+  "unpaid_count": 26,
+  "paid_count": 20,
+  "all_count": 46
+ },
+ "generated_at": "2026-09-12"
+}
